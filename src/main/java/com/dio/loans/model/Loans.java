@@ -36,7 +36,7 @@ public class Loans {
 	@Column(name = "amount_paid")
 	private int amountPaid;
 	
-	@Column(name = "outstranding_amount")
+	@Column(name = "outstanding_amount")
 	private int outstandingAmount;
 	
 	@Column(name = "create_dt")
